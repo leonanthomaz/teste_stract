@@ -1,3 +1,11 @@
+# Arquivos e diretórios do ambiente virtual
+.venv
+venv
+env
+
+# Arquivos de configuração sensíveis
+.env
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
